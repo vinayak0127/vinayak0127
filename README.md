@@ -45,10 +45,10 @@
   <p align='center'>
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=irsayvid&theme=radical&hide=jupyter%20notebook&layout=compact&langs_count=8"></p>
 
-<p align="center"> 
+<!-- <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/vinayak0127/count.svg" />
- </p>
+ </p> -->
 <div align="center">
 <img src="https://user-images.githubusercontent.com/60927324/129559810-4a9aeb50-67f3-43d8-aaba-5dc999291d4d.gif" width="400" height="400" />
 </div>
