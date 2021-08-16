@@ -1,7 +1,7 @@
 
 <!-- Vinayak Raj CopyRights -->
 <div align="center">
-<img src="https://user-images.githubusercontent.com/60927324/129559810-4a9aeb50-67f3-43d8-aaba-5dc999291d4d.gif" width="400" height="400" />
+<img src="https://user-images.githubusercontent.com/60927324/129559810-4a9aeb50-67f3-43d8-aaba-5dc999291d4d.gif" width="200" height="200" />
 </div>
  <h1 align="center">Hey There!<img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35"> It's Vinayak Raj here :) </h1>
 
