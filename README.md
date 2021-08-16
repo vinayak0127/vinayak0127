@@ -34,7 +34,7 @@
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=irsayvid&theme=radical&hide=jupyter%20notebook&layout=compact&langs_count=8"></p>
 <p align="center">
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/irsayvid/count.svg" />
+  <img src="https://profile-counter.glitch.me/vinayak0127/count.svg" />
 </p>
 <div align="center">
   
