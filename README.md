@@ -1,7 +1,7 @@
 
 <!-- Vinayak Raj CopyRights -->
 
- <h1 align="center">Hey There!<img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35"> It's Vinayak Raj here :) </h1>
+ <h1 align="center">Hey There!<img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35"><a href="https://vinayakwhocodes.netlify.app/"> It's Vinayak Raj here :)</a> </h1>
 
 ![](https://activity-graph.herokuapp.com/graph?username=vinayak0127&theme=react-dark&hide_border=true&area=true)
 
