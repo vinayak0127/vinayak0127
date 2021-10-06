@@ -37,13 +37,13 @@
   [<img src ="https://img.shields.io/badge/instagram-%23E1306C.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/irs.ayvid/) 
 </div> -->
 
-<p align='center'><img width="450px" style="border-style:solid" src="https://github-readme-streak-stats.herokuapp.com/?user=irsayvid&theme=radical" alt="irsayvid Github Stats" />
+<p align='center'><img width="450px" style="border-style:solid" src="https://github-readme-streak-stats.herokuapp.com/?user=vinayak0127&theme=radical" alt="irsayvid Github Stats" />
   </p>
   <p align='center'>
-  <img width="450px" src="https://github-readme-stats.vercel.app/api?username=irsayvid&count_private=true&theme=radical"/>
+  <img width="450px" src="https://github-readme-stats.vercel.app/api?username=vinayak0127&count_private=true&theme=radical"/>
 </p>
   <p align='center'>
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=irsayvid&theme=radical&hide=jupyter%20notebook&layout=compact&langs_count=8"></p>
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=vinayak0127&theme=radical&hide=jupyter%20notebook&layout=compact&langs_count=8"></p>
 
 <!-- <p align="center"> 
   Visitor count<br>
