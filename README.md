@@ -1,6 +1,6 @@
 
-![](https://activity-graph.herokuapp.com/graph?username=vinayak0127&theme=react-dark&hide_border=true&area=true)
-
+<!-- ![](https://activity-graph.herokuapp.com/graph?username=vinayak0127&theme=react-dark&hide_border=true&area=true) -->
+## About me:
 <!-- **irsayvid/irsayvid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 - 🔭 Pursuing Btech-Computer Science & Engineering From SRM University, India
