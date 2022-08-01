@@ -1,5 +1,8 @@
 
-<!-- ![](https://activity-graph.herokuapp.com/graph?username=vinayak0127&theme=react-dark&hide_border=true&area=true) -->
+An aspiring Software Developer, who has experience working in multiple domains like Frontend,
+Backend Development,and more over hands on experience on cross platform frameworks
+I'm passionate about Open Source and project management.
+
 ## About me:
 <!-- **irsayvid/irsayvid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
